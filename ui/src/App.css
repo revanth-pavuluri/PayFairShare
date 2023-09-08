@@ -1,0 +1,6 @@
+.content-div:hover .fd-cl{ 
+ opacity: 0.25;
+}
+.content-div:hover .fd-sh{ 
+ opacity: 1;
+}
